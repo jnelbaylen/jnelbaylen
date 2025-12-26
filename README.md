@@ -7,7 +7,7 @@
 <h3>Backend</h3>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,php,java,go,python,flask,cpp,ruby,rust" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,php,java,go,python,flask,cpp,c,ruby,rust" />
   </a>
 
 <h3>Database</h3>
